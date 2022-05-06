@@ -35,7 +35,11 @@ The purpose of the Ecommerce SDU website is to conveniently buy clothes and save
 This site can be used by anyone who wants to buy clothes. On the website you can find suitable clothes for yourself.
 
 ## Screenshots
-![Image text](https://github.com/Aliwkaa04/back-end-project/blob/main/db.jpg)
+![Image text](https://github.com/Aliwkaa04/backend/blob/main/1.jpg)
+![Image text](https://github.com/Aliwkaa04/backend/blob/main/2.jpg)
+![Image text](https://github.com/Aliwkaa04/backend/blob/main/3.jpg)
+![Image text](https://github.com/Aliwkaa04/backend/blob/main/4.jpg)
+![Image text](https://github.com/Aliwkaa04/backend/blob/main/5.jpg)
 
 ## Database
 
