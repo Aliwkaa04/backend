@@ -1,4 +1,4 @@
-# Ecommerce SDU 
+# DJe-commerce SDU 
 
 Online store
 
